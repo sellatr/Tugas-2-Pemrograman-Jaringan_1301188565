@@ -1,5 +1,4 @@
 # Tugas-2-Pemrograman-Jaringan_1301188565
-Sella Tresnasari (1301188565)
 
 <p align="center"
   <a><strong>  NAMA KELOMPOK :  </strong></a> 
@@ -50,3 +49,11 @@ Kelebihan Topologi Tree:
 5.	Manajemen data yang baik, karena komunikasi terjadi secara point to point
 
 #### SOAL NOMOR 3 ####
+- Web Server
+<img width="1440" alt="Screen Shot 2019-09-07 at 01 17 40" src="https://user-images.githubusercontent.com/54678313/64468604-ea4cc780-d150-11e9-89d2-3ae678ef9353.png">
+
+- Database Server
+<img width="1440" alt="Screen Shot 2019-09-07 at 02 32 43" src="https://user-images.githubusercontent.com/54678313/64468606-eae55e00-d150-11e9-820f-8c15649c89c1.png">
+
+- FTP
+<img width="1440" alt="Screen Shot 2019-09-07 at 02 46 35" src="https://user-images.githubusercontent.com/54678313/64468607-eb7df480-d150-11e9-80fd-c567252cbcaf.png">
